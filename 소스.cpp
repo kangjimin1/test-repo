@@ -7,5 +7,5 @@ int main() {
 
 	int sum;
 
-	printf("두 수의 합: %d, sum");
+	printf("d",sum);
 }
