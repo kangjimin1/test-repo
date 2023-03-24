@@ -2,10 +2,8 @@
 
 int main() {
  
-	int x=1;
-	int y=3;
-
-	int sum;
-
-	printf("µÎ ¼öÀÇ ÇÕ: %d, sum");
+	int x=1, y=3, sum = 0;
+	sum = x+y;
+	
+	printf("xì™€ yì˜ í•©: %d, sum"); // printf("ÂµÃ Â¼Ã¶Ã€Ã‡ Ã‡Ã•: %d, sum"); 
 }
