@@ -5,7 +5,9 @@ int main() {
 	int x=1;
 	int y=3;
 
-	int sum;
+	int sum = x+y; //ìˆ˜ì •:ìµœìŠ¹í™˜
 
-	printf("µÎ ¼öÀÇ ÇÕ: %d, sum");
+	printf("%d", sum); //ìˆ˜ì •:ìµœìŠ¹í™˜
+	
+	return 0;  //ìˆ˜ì •:ìµœìŠ¹í™˜
 }
